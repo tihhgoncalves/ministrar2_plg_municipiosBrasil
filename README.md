@@ -1,4 +1,4 @@
-ministrar2_plg_municipiosBrasil
+municipiosBrasil (plugin Ministra2)
 ===============================
 
 Tabela de Cidades com todas as Cidades Brasileiras
